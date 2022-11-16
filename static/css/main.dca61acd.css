@@ -1,0 +1,18 @@
+.box {
+  background-color: hsla(0, 0%, 100%, 0.75);
+  border-radius: 16px;
+  margin: 16px;
+  padding: 16px;
+  text-align: center;
+}
+#root {
+  display: flex;
+  justify-content: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  width: calc(100vw - 8px);
+}
+.background {
+  background-image: url(../media/background1.16c38efb978e0d66653a.jpg);
+}
+/*# sourceMappingURL=main.dca61acd.css.map*/
