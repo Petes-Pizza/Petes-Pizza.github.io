@@ -1,17 +1,26 @@
 {
   "files": {
     "main.css": "./static/css/main.8b41e33e.css",
-    "main.js": "./static/js/main.5bb91861.js",
+    "main.js": "./static/js/main.0cc5f2e1.js",
     "static/media/background1.jpg": "./static/media/background1.16c38efb978e0d66653a.jpg",
+    "static/media/peperoni.png": "./static/media/peperoni.768c609bd4b9815a5ac3.png",
+    "static/media/chicken.png": "./static/media/chicken.ae08d7a8103c1b91e922.png",
+    "static/media/pineapple.png": "./static/media/pineapple.ea648b9d228b59cd6c02.png",
+    "static/media/sausage.png": "./static/media/sausage.c3e7da6d062438862a91.png",
     "static/media/HarlowSolidRegular.ttf": "./static/media/HarlowSolidRegular.d4155121323afaca2da9.ttf",
+    "static/media/spinach.png": "./static/media/spinach.098c450578f5650064cc.png",
+    "static/media/mushroom.png": "./static/media/mushroom.3b76651c503a776f6a7e.png",
+    "static/media/bellpeppers.png": "./static/media/bellpeppers.1cdb066cc3a7c8c64e02.png",
+    "static/media/onion.png": "./static/media/onion.b53dfc65823b56bfb1d7.png",
     "static/media/pizza.png": "./static/media/pizza.fb7941087da669db04bb.png",
+    "static/media/canadianbacon.png": "./static/media/canadianbacon.f38799b005319b5295f4.png",
     "static/media/brand_logo.png": "./static/media/brand_logo.683c4c9344729ed9be29.png",
     "index.html": "./index.html",
     "main.8b41e33e.css.map": "./static/css/main.8b41e33e.css.map",
-    "main.5bb91861.js.map": "./static/js/main.5bb91861.js.map"
+    "main.0cc5f2e1.js.map": "./static/js/main.0cc5f2e1.js.map"
   },
   "entrypoints": [
     "static/css/main.8b41e33e.css",
-    "static/js/main.5bb91861.js"
+    "static/js/main.0cc5f2e1.js"
   ]
 }
